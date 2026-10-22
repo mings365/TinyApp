@@ -23,7 +23,7 @@ Small tools. Native code. Less overhead.
 
 | 名称 | 简介 |
 | --- | --- |
-| **Tiny Markdown Reader 1.0** | 约 139 KiB 的原生 Markdown 阅读与编辑工具，适用于 Windows 10 / 11，64 位。 |
+| **[Tiny Markdown Reader 1.0](TinyMarkdownReader.exe)** | 约 139 KiB 的原生 Markdown 阅读与编辑工具，适用于 Windows 10 / 11，64 位。 |
 
 - 单个 EXE，下载即用，无需额外安装运行库。
 - 多标签、文档大纲和查找；支持阅读、双栏、源码及基础可视化编辑。
@@ -34,9 +34,7 @@ Small tools. Native code. Less overhead.
 
 ### 下载与使用
 
-前往本仓库的 **Releases** 页面，选择所需程序，查看对应的使用说明并下载。
-
-目前支持 **Windows 10 / 11，64 位**。各程序的系统要求、文件大小和功能范围，均在发布说明中列出。
+程序直接存放在本仓库中，下载对应的 `.exe` 文件即可使用。目前支持 **Windows 10 / 11，64 位**，具体要求以各程序说明为准。
 
 ### 关于本仓库
 
@@ -61,13 +59,13 @@ Each app addresses a practical everyday need, with a focus on useful features, a
 - **Native implementation**: Prefer built-in Windows components and avoid large frameworks and heavy third-party dependencies.
 - **Small and efficient**: Keep executable size, startup time, and resource usage low. Avoid unnecessary features and background activity.
 - **Simple to use**: Clear interfaces and straightforward interactions that keep the focus on the task.
-- **Easy to run**: Aim for apps that run after downloading, without installing additional runtimes. See each app's release notes for specific requirements.
+- **Easy to run**: Aim for apps that run after downloading, without installing additional runtimes. See each app's documentation for specific requirements.
 
 ### Apps
 
 | Name | Description |
 | --- | --- |
-| **Tiny Markdown Reader 1.0** | A native Markdown reader and editor, about 139 KiB, for 64-bit Windows 10 and 11. |
+| **[Tiny Markdown Reader 1.0](TinyMarkdownReader.exe)** | A native Markdown reader and editor, about 139 KiB, for 64-bit Windows 10 and 11. |
 
 - A single EXE, ready to run without installing additional runtimes.
 - Tabs, document outline, and search; reading, split, source, and basic visual editing modes.
@@ -78,15 +76,13 @@ Future apps will be published here as well.
 
 ### Download and Use
 
-Visit this repository's **Releases** page, choose an app, and check its instructions before downloading.
-
-Current apps support **64-bit Windows 10 and 11**. System requirements, file sizes, and supported features are listed in each release.
+Apps are stored directly in this repository. Download the corresponding `.exe` file to get started. Current apps support **64-bit Windows 10 and 11**; see each app's documentation for specific requirements.
 
 ### About This Repository
 
-This repository shares ready-to-run apps, documentation, and release notes. **Source code is not included.**
+This repository shares ready-to-run apps, documentation, and update history. **Source code is not included.**
 
-These apps are all products of vibe coding, so the apps get released while the source stays local—consider it a small effort to keep a little noise out of future AI training data.
+These apps are all products of vibe coding, so the finished apps are shared while the source stays local—consider it a small effort to keep a little noise out of future AI training data.
 
 Bug reports and suggestions are welcome through **Issues**. For bug reports, please include the app version, Windows version, and steps to reproduce the problem.
 
