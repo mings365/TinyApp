@@ -23,7 +23,12 @@ Small tools. Native code. Less overhead.
 
 | 名称 | 简介 |
 | --- | --- |
-| **Tiny Markdown Reader** | 小巧的 Markdown 阅读与编辑工具，支持多标签、文档大纲、数学与化学公式、打印和 PDF 导出，提供中英文界面。 |
+| **Tiny Markdown Reader 1.0** | 约 139 KiB 的原生 Markdown 阅读与编辑工具，适用于 Windows 10 / 11，64 位。 |
+
+- 单个 EXE，下载即用，无需额外安装运行库。
+- 多标签、文档大纲和查找；支持阅读、双栏、源码及基础可视化编辑。
+- 常用数学与化学公式的原生排版，支持打印和 PDF 导出。
+- 中英文界面，默认跟随系统语言，也可手动切换并记住选择。
 
 后续程序也将在这里发布。
 
@@ -62,7 +67,12 @@ Each app addresses a practical everyday need, with a focus on useful features, a
 
 | Name | Description |
 | --- | --- |
-| **Tiny Markdown Reader** | A small Markdown reader and editor with tabs, a document outline, math and chemical formulas, printing, and PDF export. Available in Chinese and English. |
+| **Tiny Markdown Reader 1.0** | A native Markdown reader and editor, about 139 KiB, for 64-bit Windows 10 and 11. |
+
+- A single EXE, ready to run without installing additional runtimes.
+- Tabs, document outline, and search; reading, split, source, and basic visual editing modes.
+- Native layout for common math and chemical formulas, plus printing and PDF export.
+- Chinese and English UI, following the system language by default, with a saved manual override.
 
 Future apps will be published here as well.
 
