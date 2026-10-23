@@ -29,7 +29,7 @@ Small tools. Native code. Less overhead.
 
 #### Tiny Markdown Reader 1.0
 
-- 单个 EXE，下载即用，无需额外安装运行库。
+- 单个 EXE，大小仅 139 KiB，下载即用，无需额外安装运行库。
 - 多标签、文档大纲和查找；支持阅读、双栏、源码及基础可视化编辑。
 - 常用数学与化学公式的原生排版，支持打印和 PDF 导出。
 - 中英文界面，默认跟随系统语言，也可手动切换并记住选择。
@@ -103,7 +103,7 @@ Each app addresses a practical everyday need, with a focus on useful features, a
 
 #### Tiny Markdown Reader 1.0
 
-- A single EXE, ready to run without installing additional runtimes.
+- A single EXE of just 139 KiB, ready to run without installing additional runtimes.
 - Tabs, document outline, and search; reading, split, source, and basic visual editing modes.
 - Native layout for common math and chemical formulas, plus printing and PDF export.
 - Chinese and English UI, following the system language by default, with a saved manual override.
