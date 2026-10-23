@@ -25,7 +25,7 @@ Small tools. Native code. Less overhead.
 | --- | --- |
 | **[Tiny PDF Toolkit 1.0](Tiny%20PDF%20Toolkit.exe)** | 约 2.74 MiB 的离线 PDF 工具箱，12 项功能，支持批量处理，适用于 Windows 10 / 11，64 位。 |
 | **[Tiny Markdown Reader 1.0](TinyMarkdownReader.exe)** | 约 139 KiB 的原生 Markdown 阅读与编辑工具，适用于 Windows 10 / 11，64 位。 |
-| **[Tiny TV PDF Viewer v1.1](TV-PdfViewer-Lite.apk)** | 约 165.5 KiB 的原生 Android TV 大屏阅读与无线推送工具，适用于 Android 5.0+。 |
+| **[Tiny TV PDF Viewer v1.1](TV-PdfViewer-Lite.apk)** | 约 165.5 KiB 的 Android TV PDF / EPUB 阅读与无线推书工具，适用于 Android 5.0+。 |
 
 #### Tiny Markdown Reader 1.0
 
@@ -36,14 +36,11 @@ Small tools. Native code. Less overhead.
 
 #### Tiny TV PDF Viewer v1.1
 
-- 单个 APK 约 165.5 KiB，使用系统 PDF 渲染器与 WebView，无需打包第三方运行库，适用于 Android 5.0+。
-- PDF 阅读适配电视遥控器：支持双页画册与单页模式、适宽与适高切换、书签与阅读进度记忆。
-- **新增 EPUB 阅读**：支持章节目录、字号调整、遥控器翻页和阅读进度恢复；适用于无 DRM 的普通图文书，需要可用的系统 WebView。
-- **新增 WebDAV 网络书库**：浏览局域网 NAS 或其他 WebDAV 服务器中的 PDF / EPUB，下载到缓存后阅读。
-- **网页配置 WebDAV**：手机或电脑打开电视显示的局域网地址，点击「配置 WebDAV」，在弹窗中添加、编辑或删除服务器，避免用遥控器输入地址和账号密码。配置页面通过 HTTP 访问，请在可信局域网内使用。
-- **自动管理网络缓存**：默认预算 300 MiB，优先清理较久未使用的文件，30 天未访问的缓存会在清理时移除；支持手动清理。正在阅读的文件受到保护，单个超大文件在阅读结束后清理；不影响本地上传图书、NAS 原文件和阅读记录。
-- 浏览器支持点击选择或拖拽上传 PDF、EPUB 与 APK，可查看传输进度并在上传后自动打开；APK 会拉起系统安装界面，并在安装结束后清理临时安装包。
-- 加强上传完整性检查、路径校验与阅读资源释放；网页底部显示程序名、v1.1 和项目主页。
+- 支持 PDF、EPUB 阅读，适用于 Android 5.0+ 电视、盒子和投影仪，APK 约 165.5 KiB。
+- 遥控器操作：确认打开、方向键翻页、长按管理；PDF 支持单双页、适宽适高和书签，EPUB 支持目录与字号调整，自动记住阅读进度。
+- 连接 WebDAV 浏览 NAS 图书，可通过手机或电脑网页配置服务器。
+- 局域网页面支持上传 PDF、EPUB 和 APK，显示传输进度，可在上传后自动打开或启动安装。
+- 网络缓存支持自动及手动清理，默认预算 300 MiB、30 天未访问过期；保留本地图书、NAS 原文件和阅读记录。
 
 #### Tiny PDF Toolkit 1.0
 
@@ -110,14 +107,11 @@ Each app addresses a practical everyday need, with a focus on useful features, a
 
 #### Tiny TV PDF Viewer v1.1
 
-- A single APK of about 165.5 KiB for Android 5.0+, using the system PDF renderer and WebView without bundled third-party runtime libraries.
-- Remote-friendly PDF reading: dual-page booklet and single-page modes, fit-width/fit-height, bookmarks, and saved reading progress.
-- **New EPUB reader**: chapter navigation, adjustable font size, remote-control paging, and resume support. Intended for ordinary DRM-free books; requires a working system WebView.
-- **New WebDAV library**: browse PDF / EPUB books on a LAN NAS or other WebDAV server and download them into a managed cache for reading.
-- **Configure WebDAV from a browser**: open the TV's LAN address on a phone or PC, then use the WebDAV configuration dialog to add, edit, or remove servers without entering addresses and credentials with the TV remote. The page uses HTTP; use it on a trusted LAN.
-- **Managed network cache**: a default 300 MiB budget, least-recently-used cleanup, and removal of entries not accessed for 30 days when cleanup runs, plus manual clearing. Active books are protected; oversized files are removed after reading. Local uploads, NAS originals, and reading records are preserved.
-- Click to select or drag and drop PDF, EPUB, and APK files in the browser, with transfer progress and optional auto-open. APK uploads launch the system installer and clean up the temporary package after installation ends.
-- Improved upload integrity checks, path validation, and reader resource cleanup. The browser footer shows the app name, v1.1, and project homepage.
+- Read PDF and EPUB books on Android 5.0+ TVs, TV boxes, and projectors. APK size: about 165.5 KiB.
+- Remote controls for opening, paging, and long-press management. PDF supports single/dual pages, fit-width/fit-height, and bookmarks; EPUB supports chapters and font sizes. Reading progress is saved automatically.
+- Browse NAS books over WebDAV and configure servers from a phone or PC browser.
+- Upload PDF, EPUB, and APK files over the LAN, with transfer progress and optional automatic opening or installation prompts.
+- Automatic and manual network-cache cleanup, with a 300 MiB budget and 30-day inactivity expiry. Local books, NAS originals, and reading records are preserved.
 
 #### Tiny PDF Toolkit 1.0
 
