@@ -23,6 +23,7 @@ Small tools. Native code. Less overhead.
 
 | 名称 | 简介 |
 | --- | --- |
+| **[Tiny PDF Toolkit 1.0](Tiny%20PDF%20Toolkit.exe)** | 约 2.74 MiB 的离线 PDF 工具箱，12 项功能，支持批量处理，适用于 Windows 10 / 11，64 位。 |
 | **[Tiny Markdown Reader 1.0](TinyMarkdownReader.exe)** | 约 139 KiB 的原生 Markdown 阅读与编辑工具，适用于 Windows 10 / 11，64 位。 |
 | **[Tiny TV PDF Viewer 1.0](TV-PdfViewer-Lite.apk)** | 约 89 KiB 的原生 Android TV 大屏阅读与无线推送工具，适用于 Android 5.0+。 |
 
@@ -39,6 +40,19 @@ Small tools. Native code. Less overhead.
 - 专为电视遥控器深度优化：支持双页画册与单页模式、适宽与适高切换、书签与阅读进度记忆。
 - 内置轻量局域网 Web 服务，电脑或手机浏览器直传文档，电视端实时同步进度并自动全屏打开。
 - 支持推送 APK 安装包，电视端自动拉起系统安装，并在安装完成后自动清理临时文件。
+
+#### Tiny PDF Toolkit 1.0
+
+- 约 2.74 MiB，单个 EXE，适用于 Windows 10 / 11（64 位）；无需安装额外运行库，文件全程在本地处理。
+- 提供解密、合并与书签、提取、拆分、删除、旋转、全文倒序、骑马订拼版、多页合一、页码、文字水印和图片转 PDF，共 12 项工具。解密仅支持空密码或已知密码。
+- 添加或拖入文件、文件夹后，通过固定排列的功能标签处理；支持子文件夹、文件多选与顺序调整，启动时默认最大化。
+- 旋转、提取等操作支持指定页码、范围及奇偶页；页码可自定义起始页与起始编号，例如前 3 页不编号，就从第 4 页开始。
+- 骑马订默认 A4 横向、两页拼满，自动补齐空白页；双面打印选择短边翻转，再沿中缝对折。另支持 2 / 4 合 1。
+- 支持中文水印、JPEG / PNG 图片及透明背景。页码和水印以矢量图形添加，不能作为文字复制或搜索。
+- 单文件默认在原目录保存为 `原文件名_output.pdf`；批量和拆分默认保存到各原目录的 `output` 文件夹，输出路径及名称均可修改。
+- 默认保护原文件，后台任务支持取消，完成后可打开输出位置。PDF 处理使用静态链接的 QPDF、zlib 和 libjpeg，无需外部 PDF 程序；第三方许可已嵌入 EXE。
+
+[下载 Tiny PDF Toolkit 1.0](Tiny%20PDF%20Toolkit.exe?raw=true)
 
 后续程序也将在这里发布。
 
@@ -79,6 +93,7 @@ Each app addresses a practical everyday need, with a focus on useful features, a
 
 | Name | Description |
 | --- | --- |
+| **[Tiny PDF Toolkit 1.0](Tiny%20PDF%20Toolkit.exe)** | An offline PDF toolkit, about 2.74 MiB, with 12 tools and batch processing for 64-bit Windows 10 and 11. |
 | **[Tiny Markdown Reader 1.0](TinyMarkdownReader.exe)** | A native Markdown reader and editor, about 139 KiB, for 64-bit Windows 10 and 11. |
 | **[Tiny TV PDF Viewer 1.0](TV-PdfViewer-Lite.apk)** | A native Android TV PDF reader and wireless push tool, about 89 KiB, for Android 5.0+. |
 
@@ -95,6 +110,19 @@ Each app addresses a practical everyday need, with a focus on useful features, a
 - Tailored for TV remotes: dual-page booklet and single-page modes, fit-width/fit-height toggle, bookmarks, and auto-resume.
 - Built-in lightweight local web server for browser uploads from phones or PCs, with real-time transfer progress and auto-open.
 - Supports pushing APK packages with automatic TV installation prompts and post-install package cleanup.
+
+#### Tiny PDF Toolkit 1.0
+
+- A single EXE of about 2.74 MiB for 64-bit Windows 10 and 11. No additional runtime installation; files are processed locally.
+- Twelve tools: decrypt, merge with bookmarks, extract, split, delete, rotate, reverse, booklet imposition, N-up layout, page numbering, text watermarks, and images to PDF. Decryption requires an empty or known password.
+- Add or drop files and folders, then choose a tool from fixed-position tabs. Supports subfolders, multiple selection, and file reordering; opens maximized by default.
+- Select page ranges and odd/even pages for applicable tools. Set the numbering start page and starting number; for example, start on page 4 to leave the first three pages unnumbered.
+- Booklet layout defaults to landscape A4 with two pages per sheet side and automatic blank-page padding. Print double-sided with short-edge binding, then fold along the center. Also supports 2-up and 4-up layouts.
+- Supports Chinese watermarks, JPEG/PNG images, and transparency. Added numbers and watermarks are vector outlines, not searchable or selectable text.
+- A single-file result defaults to `original_name_output.pdf` beside the source. Batch and split results default to an `output` subfolder beside each source; output paths and names are editable.
+- Protects source files, supports background cancellation, and can open the output location. QPDF, zlib, and libjpeg are statically linked; no external PDF application is required. Third-party notices are embedded in the EXE.
+
+[Download Tiny PDF Toolkit 1.0](Tiny%20PDF%20Toolkit.exe?raw=true)
 
 Future apps will be published here as well.
 
