@@ -23,18 +23,18 @@ Small tools. Native code. Less overhead.
 
 | 名称 | 简介 |
 | --- | --- |
-| **[Tiny Markdown Reader 1.0](TinyMarkdownReader.exe)** | 约 139 KiB 的原生 Markdown 阅读与编辑工具，适用于 Windows 10 / 11，64 位。 |
+| **[Tiny Markdown Reader 1.1](TinyMarkdownReader.exe)** | 约 156 KiB 的原生 Markdown 阅读与编辑工具，适用于 Windows 10 / 11，64 位。 |
 | **[Tiny TV PDF Viewer v1.1](TV-PdfViewer-Lite.apk)** | 约 165.5 KiB 的 Android TV PDF / EPUB 阅读与无线推书工具，适用于 Android 5.0+。 |
 | **[Tiny PDF Toolkit 1.0](Tiny%20PDF%20Toolkit.exe)** | 约 2.84 MiB 的离线 PDF 工具箱，12 项功能，支持批量处理，适用于 Windows 10 / 11，64 位。 |
 
-#### Tiny Markdown Reader 1.0
+#### Tiny Markdown Reader 1.1
 
-- 单个 EXE，大小仅 139 KiB，下载即用，无需额外安装运行库。
+- 单个 EXE，大小仅 156 KiB，下载即用，无需额外安装运行库。
 - 多标签、文档大纲和查找；支持阅读、双栏、源码及基础可视化编辑。
-- 常用数学与化学公式的原生排版，支持打印和 PDF 导出。
+- 表格、常用数学与化学公式的原生排版，支持列对齐、单元格自动换行、打印和 PDF 导出。
 - 中英文界面，默认跟随系统语言，也可手动切换并记住选择。
 
-[下载 Tiny Markdown Reader 1.0](TinyMarkdownReader.exe?raw=true)
+[下载 Tiny Markdown Reader 1.1](TinyMarkdownReader.exe?raw=true)
 
 #### Tiny TV PDF Viewer v1.1
 
@@ -97,18 +97,18 @@ Each app addresses a practical everyday need, with a focus on useful features, a
 
 | Name | Description |
 | --- | --- |
-| **[Tiny Markdown Reader 1.0](TinyMarkdownReader.exe)** | A native Markdown reader and editor, about 139 KiB, for 64-bit Windows 10 and 11. |
+| **[Tiny Markdown Reader 1.1](TinyMarkdownReader.exe)** | A native Markdown reader and editor, about 156 KiB, for 64-bit Windows 10 and 11. |
 | **[Tiny TV PDF Viewer v1.1](TV-PdfViewer-Lite.apk)** | An Android TV PDF / EPUB reader and wireless upload tool, about 165.5 KiB, for Android 5.0+. |
 | **[Tiny PDF Toolkit 1.0](Tiny%20PDF%20Toolkit.exe)** | An offline PDF toolkit, about 2.84 MiB, with 12 tools and batch processing for 64-bit Windows 10 and 11. |
 
-#### Tiny Markdown Reader 1.0
+#### Tiny Markdown Reader 1.1
 
-- A single EXE of just 139 KiB, ready to run without installing additional runtimes.
+- A single EXE of just 156 KiB, ready to run without installing additional runtimes.
 - Tabs, document outline, and search; reading, split, source, and basic visual editing modes.
-- Native layout for common math and chemical formulas, plus printing and PDF export.
+- Native tables with column alignment and wrapping, common math and chemical formulas, printing, and PDF export.
 - Chinese and English UI, following the system language by default, with a saved manual override.
 
-[Download Tiny Markdown Reader 1.0](TinyMarkdownReader.exe?raw=true)
+[Download Tiny Markdown Reader 1.1](TinyMarkdownReader.exe?raw=true)
 
 #### Tiny TV PDF Viewer v1.1
 
