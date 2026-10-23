@@ -23,9 +23,9 @@ Small tools. Native code. Less overhead.
 
 | 名称 | 简介 |
 | --- | --- |
-| **[Tiny PDF Toolkit 1.0](Tiny%20PDF%20Toolkit.exe)** | 约 2.84 MiB 的离线 PDF 工具箱，12 项功能，支持批量处理，适用于 Windows 10 / 11，64 位。 |
 | **[Tiny Markdown Reader 1.0](TinyMarkdownReader.exe)** | 约 139 KiB 的原生 Markdown 阅读与编辑工具，适用于 Windows 10 / 11，64 位。 |
 | **[Tiny TV PDF Viewer v1.1](TV-PdfViewer-Lite.apk)** | 约 165.5 KiB 的 Android TV PDF / EPUB 阅读与无线推书工具，适用于 Android 5.0+。 |
+| **[Tiny PDF Toolkit 1.0](Tiny%20PDF%20Toolkit.exe)** | 约 2.84 MiB 的离线 PDF 工具箱，12 项功能，支持批量处理，适用于 Windows 10 / 11，64 位。 |
 
 #### Tiny Markdown Reader 1.0
 
@@ -33,6 +33,8 @@ Small tools. Native code. Less overhead.
 - 多标签、文档大纲和查找；支持阅读、双栏、源码及基础可视化编辑。
 - 常用数学与化学公式的原生排版，支持打印和 PDF 导出。
 - 中英文界面，默认跟随系统语言，也可手动切换并记住选择。
+
+[下载 Tiny Markdown Reader 1.0](TinyMarkdownReader.exe?raw=true)
 
 #### Tiny TV PDF Viewer v1.1
 
@@ -42,12 +44,14 @@ Small tools. Native code. Less overhead.
 - 局域网页面支持上传 PDF、EPUB 和 APK，显示传输进度，可在上传后自动打开或启动安装。
 - 网络缓存支持自动及手动清理，默认预算 300 MiB、30 天未访问过期；保留本地图书、NAS 原文件和阅读记录。
 
+[下载 Tiny TV PDF Viewer v1.1](TV-PdfViewer-Lite.apk?raw=true)
+
 #### Tiny PDF Toolkit 1.0
 
 - 单个 EXE 约 2.84 MiB，适用于 Windows 10 / 11（64 位）。
 - PDF 解密、合并与书签、提取、拆分、删除、旋转及全文倒序；页面操作支持指定页码、范围和奇偶页筛选。
 - A4 横向骑马订拼版，自动补空白页；支持 2 / 4 合 1。
-- 添加页码和文字水印，可设置起始页、起始编号、字号、颜色、不透明度及位置。
+- 添加页码，可设置起始页、起始编号和字号；文字水印支持文字、字号、颜色、不透明度、角度和位置设置。
 - JPEG / PNG 图片转 PDF，支持透明背景、原图尺寸及顺序调整。
 - 文件夹批量处理，可修改输出目录与文件名。
 - 中英文界面，默认跟随系统语言，支持手动切换并记住选择。
@@ -93,9 +97,9 @@ Each app addresses a practical everyday need, with a focus on useful features, a
 
 | Name | Description |
 | --- | --- |
-| **[Tiny PDF Toolkit 1.0](Tiny%20PDF%20Toolkit.exe)** | An offline PDF toolkit, about 2.84 MiB, with 12 tools and batch processing for 64-bit Windows 10 and 11. |
 | **[Tiny Markdown Reader 1.0](TinyMarkdownReader.exe)** | A native Markdown reader and editor, about 139 KiB, for 64-bit Windows 10 and 11. |
 | **[Tiny TV PDF Viewer v1.1](TV-PdfViewer-Lite.apk)** | An Android TV PDF / EPUB reader and wireless upload tool, about 165.5 KiB, for Android 5.0+. |
+| **[Tiny PDF Toolkit 1.0](Tiny%20PDF%20Toolkit.exe)** | An offline PDF toolkit, about 2.84 MiB, with 12 tools and batch processing for 64-bit Windows 10 and 11. |
 
 #### Tiny Markdown Reader 1.0
 
@@ -103,6 +107,8 @@ Each app addresses a practical everyday need, with a focus on useful features, a
 - Tabs, document outline, and search; reading, split, source, and basic visual editing modes.
 - Native layout for common math and chemical formulas, plus printing and PDF export.
 - Chinese and English UI, following the system language by default, with a saved manual override.
+
+[Download Tiny Markdown Reader 1.0](TinyMarkdownReader.exe?raw=true)
 
 #### Tiny TV PDF Viewer v1.1
 
@@ -112,12 +118,14 @@ Each app addresses a practical everyday need, with a focus on useful features, a
 - Upload PDF, EPUB, and APK files over the LAN, with transfer progress and optional automatic opening or installation prompts.
 - Automatic and manual network-cache cleanup, with a 300 MiB budget and 30-day inactivity expiry. Local books, NAS originals, and reading records are preserved.
 
+[Download Tiny TV PDF Viewer v1.1](TV-PdfViewer-Lite.apk?raw=true)
+
 #### Tiny PDF Toolkit 1.0
 
 - A single EXE of about 2.84 MiB for 64-bit Windows 10 and 11.
 - Decrypt, merge with bookmarks, extract, split, delete, rotate, and reverse PDFs; select page ranges and odd/even pages where applicable.
 - Landscape A4 booklet imposition with automatic blank-page padding, plus 2-up and 4-up layouts.
-- Page numbers and text watermarks with configurable start page, starting number, font size, color, opacity, and position.
+- Page numbers with a configurable start page, starting number, and font size; text watermarks with text, size, color, opacity, angle, and position settings.
 - JPEG/PNG to PDF with transparency, original image dimensions, and file reordering.
 - Folder-based batch processing with editable output folders and filenames.
 - Chinese and English UI, following the system language by default, with a saved manual override.
